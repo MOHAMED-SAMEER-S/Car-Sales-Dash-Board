@@ -13,6 +13,10 @@ Track revenue trends over time
 
 Compare sales across regions and categories
 
+📌 Problem Statement
+
+To design and develop a dynamic and interactive Car Sales Dashboard using Power BI that tracks key sales KPIs such as YTD, MTD, YOY growth, average price, and cars sold, and visualizes sales trends by time, body style, color, region, and company to support data-driven business decisions. 
+
 🛠 Tools Used
 
 Power BI
